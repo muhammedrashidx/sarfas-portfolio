@@ -12,7 +12,7 @@ import LinkedinDarkSvg from '$lib/imgs/linkedin-dark.svg';
 import TwitterSvg from '$lib/imgs/x.svg';
 import TwitterDarkSvg from '$lib/imgs/x-dark.svg';
 
-import AkshaySunilImg from '$lib/imgs/profile.jpg';
+import SarfasImg from '$lib/imgs/profile.jpg';
 import BKGulfImg from '$lib/imgs/bk_gulf_llc.png';
 import PondyUnivImg from '$lib/imgs/Pondy_Univ_logo.png';
 import GecImg from '$lib/imgs/gec_logo.jpg';
@@ -22,14 +22,14 @@ export let DATA = {
 	name: 'Sarfas K',
 	initials: 'SK',
 	url: 'https://www.linkedin.com/in/sarfas-kollathodi',
-	img: AkshaySunilImg,
+	img: SarfasImg,
 	location: 'Dubai, UAE',
 	locationLink: 'https://www.google.com/maps/place/Dubai',
 	description:
 		'B.Tech. Civil Engineering | M.Sc. Disaster Management | HSE Engineer',
 	summary:
 		'Accomplished young professional with a proven track record in Safety Management, Risk Assessment, Crisis Recovery and Coordination. Specialised in risk assessment and safety management, deeply committed to exceptional results and skill enhancement. Excels in environments promoting creativity, collaboration, and personal development. Motivated and adaptable professional, dedicated to contributing to organizational goals and innovating in safety management. Focusing on strengthening crisis management skills, showcasing a dedicated commitment with a background in occupational health and safety.',
-	avatarUrl: AkshaySunilImg,
+	avatarUrl: SarfasImg,
 	skills: [
 		{
 			category: 'Technical Skills',

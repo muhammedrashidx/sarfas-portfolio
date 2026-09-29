@@ -15,7 +15,6 @@
 	<meta name="description" content={DATA.description} />
 	<meta property="og:title" content={DATA.name} />
 	<meta property="og:description" content={DATA.description} />
-	<meta property="og:url" content="https://akshaysunil.in" />
 	<meta property="og:site_name" content={DATA.name} />
 	<meta property="og:image" content={DATA.img} />
 	<meta property="og:image:width" content="1200" />
