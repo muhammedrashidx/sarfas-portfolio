@@ -92,9 +92,9 @@
 					<ResumeCard
 						href={edu.href}
 						logoUrl={edu.logoUrl}
-						company={edu.school}
+						company={edu.degree}
 						title={edu.school}
-						subtitle={edu.degree}
+						subtitle=""
 						start={edu.start}
 						end={edu.end}
 					/>

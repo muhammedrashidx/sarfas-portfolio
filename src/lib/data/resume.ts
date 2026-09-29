@@ -28,7 +28,7 @@ export let DATA = {
 	description:
 		'B.Tech. Civil Engineering | M.Sc. Disaster Management | HSE Engineer',
 	summary:
-		'Accomplished young professional with a proven track record in Safety Management, Risk Assessment, Crisis Recovery and Coordination. Specialised in risk assessment and safety management, deeply committed to exceptional results and skill enhancement. Excels in environments promoting creativity, collaboration, and personal development. Motivated and adaptable professional, dedicated to contributing to organizational goals and innovating in safety management. Focusing on strengthening crisis management skills, showcasing a dedicated commitment with a background in occupational health and safety.',
+		'I am an accomplished young professional with a proven track record in safety management, risk assessment, crisis recovery, and coordination. Specializing in occupational health and safety, I am committed to delivering exceptional results while continuously enhancing my skills. I thrive in dynamic environments that promote creativity, collaboration, and personal development. As a motivated and adaptable team player, my focus is on innovating safety protocols, strengthening crisis management strategies, and consistently contributing to overarching organizational goals.',
 	avatarUrl: SarfasImg,
 	skills: [
 		{
@@ -106,7 +106,7 @@ export let DATA = {
 			start: 'May 2023',
 			end: 'Present',
 			description:
-				'Project: Khazna Data Center Project – DXB9 – June 2024 – CURRENT\nClient: Etisalat Data Center Ltd (Khazna) | PMC: AECOM\n\nImplemented and enforced HSE policies and regulatory requirements across construction and MEP activities in compliance with company, client, and international standards.\nPart of site inspections, audits, and high-risk works including lifting operations, rooftop chiller installation, and T&C with strict implementation of MSRA, ESSW, and PTW systems.\nManaged HSE reporting, trend analysis, NCRs, and subcontractor performance reviews, coordinating with logistics and department heads to close out observations and enhance site safety performance.\nConducted emergency drills, toolbox talks, and safety awareness programs.\nConducted Internal trainings.\n\nProject: Khazna Data Center Project – DXB3 – May 2023 – June 2024\nClient: Etisalat Data Center Ltd (Khazna) | PMC: Mott MacDonald\n\nConducted daily HSE inspections for MEP, civil, and infrastructure activities per project safety standards.\nMonitored high-risk activities such as excavation, electrical, lifting, and confined space entry.\nDelivered toolbox talks, site inductions, and coordinated with teams for immediate corrective actions.\nPrepared weekly/monthly HSE reports, LUX & noise monitoring and Near misses.'
+				'Project: Khazna Data Center Project – DXB9 – June 2024 – CURRENT\nClient: Etisalat Data Center Ltd (Khazna) | PMC: AECOM\n\n• Implemented and enforced HSE policies and regulatory requirements across construction and MEP activities in compliance with company, client, and international standards.\n• Part of site inspections, audits, and high-risk works including lifting operations, rooftop chiller installation, and T&C with strict implementation of MSRA, ESSW, and PTW systems.\n• Managed HSE reporting, trend analysis, NCRs, and subcontractor performance reviews, coordinating with logistics and department heads to close out observations and enhance site safety performance.\n• Conducted emergency drills, toolbox talks, and safety awareness programs.\n• Conducted Internal trainings.\n\nProject: Khazna Data Center Project – DXB3 – May 2023 – June 2024\nClient: Etisalat Data Center Ltd (Khazna) | PMC: Mott MacDonald\n\n• Conducted daily HSE inspections for MEP, civil, and infrastructure activities per project safety standards.\n• Monitored high-risk activities such as excavation, electrical, lifting, and confined space entry.\n• Delivered toolbox talks, site inductions, and coordinated with teams for immediate corrective actions.\n• Prepared weekly/monthly HSE reports, LUX & noise monitoring and Near misses.'
 		},
 		{
 			company: 'PLAN ARTS CONSTRUCTIONS',
@@ -118,22 +118,22 @@ export let DATA = {
 			start: 'Nov 2020',
 			end: 'Oct 2021',
 			description:
-				'Villa Project - Ernakulam\n\nPromoted a zero-accident culture by enforcing safety policies, conducting audits, and recommending corrective actions for unsafe conditions.\nProvided on-site safety training, inductions, and guidance to workforce, supervisors, and staff to improve safety awareness and compliance.\nCoordinated emergency preparedness, fire safety measures, and site safety activities with clients, contractors, and internal teams.'
+				'Villa Project - Ernakulam\n\n• Promoted a zero-accident culture by enforcing safety policies, conducting audits, and recommending corrective actions for unsafe conditions.\n• Provided on-site safety training, inductions, and guidance to workforce, supervisors, and staff to improve safety awareness and compliance.\n• Coordinated emergency preparedness, fire safety measures, and site safety activities with clients, contractors, and internal teams.'
 		}
 	],
 	education: [
 		{
-			school: 'Department of Coastal Disaster Mangement, Pondicherry University Port Blair Campus',
+			school: 'Department of Coastal Disaster Management, Pondicherry University Port Blair Campus',
 			href: 'https://www.pondiuni.edu.in',
-			degree: 'MASTER OF SCIENCE IN DISASTER MANAGEMENT',
+			degree: 'Master of Science in Disaster Management',
 			logoUrl: PondyUnivImg,
 			start: 'Oct 2021',
 			end: 'May 2023'
 		},
 		{
-			school: 'Goverment Engineering College Thrissur, APJ Abdul Kalam Technological University',
+			school: 'Government Engineering College Thrissur, APJ Abdul Kalam Technological University',
 			href: 'https://gectcr.ac.in',
-			degree: 'BACHELOR OF TECHNOLOGY IN CIVIL ENGINEERING',
+			degree: 'Bachelor of Technology in Civil Engineering',
 			logoUrl: GecImg,
 			start: 'Aug 2015',
 			end: 'May 2019'

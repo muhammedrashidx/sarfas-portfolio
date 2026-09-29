@@ -34,7 +34,7 @@
 		<div class="flex-none">
 			<Avatar.Root class="bg-muted-background m-auto size-12 border dark:bg-foreground">
 				<Avatar.Image src={logoUrl} alt={company} class="object-contain" />
-				<Avatar.Fallback>{company[0]}</Avatar.Fallback>
+				<Avatar.Fallback class="bg-foreground text-background font-bold text-lg">{company[0]}</Avatar.Fallback>
 			</Avatar.Root>
 		</div>
 		<div class="group ml-4 flex-grow flex-col items-center">
